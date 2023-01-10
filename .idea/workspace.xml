@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="247c8307-8614-463f-b2b0-43b0fc248682" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bot_telegram.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot_telegram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_base/sqlite_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_base/sqlite_db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handlers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handlers/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handlers/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handlers/other.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/other.py" afterDir="false" />
+    <list default="true" id="247c8307-8614-463f-b2b0-43b0fc248682" name="Changes" comment="0.1">
+      <change afterPath="$PROJECT_DIR$/keyboards/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +22,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/../.." value="main" />
@@ -65,19 +49,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Python/bot&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Python/bot",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="bot_telegram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="telegram_bot" />
@@ -117,6 +102,21 @@
       <option name="presentableId" value="Default" />
       <updated>1662559344004</updated>
     </task>
+    <task id="LOCAL-00001" summary="0.1">
+      <created>1673366880503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673366880503</updated>
+    </task>
+    <task id="LOCAL-00002" summary="0.1">
+      <created>1673366893913</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673366893913</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -133,7 +133,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="test" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -144,5 +144,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.1" />
   </component>
 </project>
