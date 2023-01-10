@@ -26,7 +26,10 @@ client.register_handlers_client(dp)
 admin.register_handlers_admin(dp)
 other.register_handlers_other(dp)
 
+#Работа с ноутбука
 executor.start_polling(dp, skip_updates=True)
+
+#Работа с сервера
 '''executor.start_webhook(
     dispatcher=dp,
     webhook_path='',
