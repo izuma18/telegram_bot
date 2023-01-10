@@ -3,3 +3,4 @@
 
 #main
 TOKEN = '5863956289:AAGy2oafvbhQAlV4DeP8UAwkYVQbKW0Fs68'
+URL_APP = 'https://git.heroku.com/baltuszkabot.git/'
