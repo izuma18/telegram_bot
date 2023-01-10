@@ -1,7 +1,7 @@
 from aiogram.dispatcher import FSMContext
 from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram import types, Dispatcher
-from create_bot import dp, bot
+from bot_telegram import dp, bot
 from aiogram.dispatcher.filters import Text
 from data_base import sqlite_db
 from keyboards import admin_kb

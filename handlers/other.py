@@ -1,5 +1,5 @@
 from aiogram import types, Dispatcher
-from create_bot import dp
+from bot_telegram import dp
 import json, string
 
 #@dp.message_handler()

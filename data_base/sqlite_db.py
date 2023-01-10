@@ -1,5 +1,5 @@
 import sqlite3 as sq
-from create_bot import bot
+from bot_telegram import bot
 
 def sql_start():
     global base, cur
